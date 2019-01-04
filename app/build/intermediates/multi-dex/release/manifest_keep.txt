@@ -1,0 +1,2 @@
+# Referenced at /Volumes/Backup/asmithatex/app/build/intermediates/manifests/full/release/AndroidManifest.xml:64
+-keep class com.ownmetrro.asmithatex.app.App { <init>(...); }

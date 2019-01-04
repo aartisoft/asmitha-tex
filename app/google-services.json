@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "387220179482",
+    "firebase_url": "https://asmithatex-7027d.firebaseio.com",
+    "project_id": "asmithatex-7027d",
+    "storage_bucket": "asmithatex-7027d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:387220179482:android:e7c259ceb70be708",
+        "android_client_info": {
+          "package_name": "com.ownmettro.asmithatex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "387220179482-l3kf81cibd51m515bcefu7b5tc1ft5ab.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy4a8vFWZmfJKyODz5aUOIHmE-X25IZXk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
